@@ -1,0 +1,14 @@
+{
+  "name": "hbbtv-utils",
+  "version": "1.0.0",
+  "description": "Some HBBTV utilities.",
+  "main": "src/index.js",
+  "sideEffects": false,
+  "dependencies": {},
+  "scripts": {},
+  "keywords": [
+    "hbbtv"
+  ],
+  "author": "Pierre Huyghe",
+  "license": "ISC"
+}

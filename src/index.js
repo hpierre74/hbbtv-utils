@@ -1,0 +1,1 @@
+export { OipfApplication } from "./hbbtv";
